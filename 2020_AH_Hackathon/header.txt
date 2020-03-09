@@ -1,0 +1,5 @@
+<div style="padding 1%; width: 25%; height: 10%; display:flex;">
+  <img src="Assets/brain.svg" style="width:10%; height:10%; display: inline-block; vertical-align: text-bottom;" />
+  &nbsp;
+  <h1 style="font-size: xxx-large; display: inline-block;">MindFull</h1>
+</div>

@@ -1,0 +1,50 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  background: rgb(30,25,65);
+  color: rgb(200, 200, 200);
+}
+
+.bigButton {
+  border: 3px solid rgb(73,128,192);
+  background-color: rgb(30, 25, 65);
+  color: rgb(200,200,200);
+  font-size: larger;
+  border-radius: 5%;
+  padding: 2%;
+  text-align: center;
+  text-decoration: none;
+  margin: auto;
+  vertical-align: middle;
+  display: flex;
+}
+
+.getStartedBtn {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.topBar {
+  width: 98%;
+  height: 2.5%;
+  display: inline-block;
+  padding: 1%;
+  
+}
+
+.companyName {
+  display: inline-block;
+  font-size: x-large;
+  float: left;
+}
+
+.companyName img {
+  width: 30%;
+  position: relative;
+}
+
+.companyName h1 {
+  position: relative;
+}
